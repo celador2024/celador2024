@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cibersecurity, Computer Networks, Python, Javascript
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...celata2024@gmail.com
 
 <!---
 celador2024/celador2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
